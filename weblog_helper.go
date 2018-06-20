@@ -11,6 +11,8 @@ import (
 	"regexp"
 )
 
+// https://github.com/xue2sheng/weblog_helper
+
 // DefaultFilePath default file path
 const DefaultFilePath = "./public_access.log.txt"
 
